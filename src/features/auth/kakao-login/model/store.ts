@@ -2,6 +2,7 @@
 // 📁 src/features/auth/kakao-login/model/store.ts
 //
 // 카카오 로그인 상태 관리 (Zustand)
+// - jwt 토큰으로 관리할 경우, 삭제하셔도 됩니다 ! 
 // - 로그인 진행 상태
 // - 에러 처리
 // - 임시 상태 저장
